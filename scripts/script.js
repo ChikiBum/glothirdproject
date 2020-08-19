@@ -37,7 +37,7 @@ liBook5Collection[7].after(liBook5Collection[5]);
 liBook5Collection[7].after(liBook5Collection[5]);
 
 //в шестой книге добавить главу “Глава 8: За пределами ES6” и поставить её в правильное место
-liBook6Collection[8].insertAdjacentHTML('afterend', ' <li>Глава 8: За пределами ES6</li>')
+liBook6Collection[8].insertAdjacentHTML('afterend', ' <li>Глава 8: За пределами ES6</li>');
 
 // // console.log(bookTitle.innerText);
 // console.log(booksCollection);
